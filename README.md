@@ -1,4 +1,3 @@
-# Interactive-Personal-Website-Using-Streamlit-and-Lottie.
 
 Developed a website utilizing Streamlit and lottie packages that showcase my personal information and data in an interactive and engaging way.
 
